@@ -1,1 +1,1 @@
- "triangle_sides"= 3
+  triangle_sides = 3
